@@ -1,4 +1,4 @@
-# learning-php
+# Learning PHP
 
 The companion to the Youtube tutorials
 
