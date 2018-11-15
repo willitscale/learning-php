@@ -1,6 +1,6 @@
 version: "3"
 services:
-    www01:
+    www02:
         build: .
         ports:
             - "80:80"
